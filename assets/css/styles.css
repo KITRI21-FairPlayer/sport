@@ -211,7 +211,7 @@ text-align:right;
 }
 .dropdown-menu{
 	width:100%; 
-	height:220px; 
+	height:230px; 
 	background-color:#000000;
 	background-color: rgba( 0, 0, 0, 0.5 );
 	border:0px;
@@ -221,9 +221,7 @@ text-align:right;
   float:left;
   height:100%;
   text-align:center;
-  overflow: auto; 
-  overflow-y: auto; 
-  overflow-x: hidden;
+  font-size:13px;
 }
 /*-----------------------------------------------------------*/
 .main-nav {
